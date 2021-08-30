@@ -6,14 +6,13 @@ This allows the user to easily convert properly scanned images while maintaining
 2. It utilizes three OCR Engines to provide options to the User.
 3. It provides a direct interface to the text files, with a distinction as to which OCR engine was used.
 
-Process Definition: Images are read from file and the robot uses 3 OCR engines to convert the images into text files. 
+Process Definition: 
+Images are read from file and the robot uses 3 OCR engines to convert the images into text files. 
 
 Inputs:
-
 Image files present in a folder.
 
 Output:
-
 Text files that are ready to be utilized by the user.
 
 Process Design:
